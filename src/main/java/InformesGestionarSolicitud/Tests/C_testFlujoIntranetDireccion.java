@@ -50,7 +50,8 @@ public class C_testFlujoIntranetDireccion {
         intranetPage.setearCodigoTramite();
         intranetPage.seleccionarTramite();
 
-        //prueba gitit status
+        //prueba gitit statusgit
+        //asdasgit
 
     }
 }
